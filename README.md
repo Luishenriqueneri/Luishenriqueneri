@@ -1,6 +1,7 @@
 <div align="center">
   <h2>E ai, meu nome é Luis!</h2>
   <h3>Sou estudante de Desenvolvimento Web do curso Explorer da Rocketseat.</h3>
+  </div>
  
  <div>
    <a href="https://github.com/Luishenriqueneri">
