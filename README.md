@@ -1,13 +1,14 @@
 <div align="center">
   <h2>E ai, meu nome é Luis!</h2>
   <h3>Sou estudante de Desenvolvimento Web do curso Explorer da Rocketseat.</h3>
+  </div>
  
  <div>
    <a href="https://github.com/Luishenriqueneri">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luishenriqueneri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luishenriqueneri&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
